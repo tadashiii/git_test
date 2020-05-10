@@ -1,0 +1,1 @@
+This is Tadashi's first git project
